@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7faff"/>
+  <text x="80" y="90" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#1246a3">From Cowork orchestration to business-ready outputs</text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="24" fill="#43546d">The result is not another chat response — it is a connected executive banking pack.</text>
+  <rect x="100" y="235" width="260" height="150" rx="28" fill="#dfeeff" stroke="#a7c6ef" stroke-width="3"/>
+  <text x="160" y="295" font-family="Arial" font-size="34" font-weight="700" fill="#1851a3">COWORK</text>
+  <text x="138" y="335" font-family="Arial" font-size="20" fill="#28496f">synthesises context,</text>
+  <text x="132" y="365" font-family="Arial" font-size="20" fill="#28496f">reasoning and actions</text>
+  <path d="M360 310 C450 310, 450 220, 540 220" stroke="#6a9ddc" stroke-width="5" fill="none"/>
+  <path d="M360 310 C450 310, 450 400, 540 400" stroke="#6a9ddc" stroke-width="5" fill="none"/>
+  <path d="M360 310 C450 310, 450 580, 540 580" stroke="#6a9ddc" stroke-width="5" fill="none"/>
+  <path d="M360 310 C450 310, 450 760, 540 760" stroke="#6a9ddc" stroke-width="5" fill="none"/>
+  <g font-family="Arial" fill="#17375e">
+    <rect x="540" y="155" width="930" height="135" rx="24" fill="#ffffff" stroke="#d5e3f7" stroke-width="3"/>
+    <rect x="570" y="183" width="82" height="82" rx="18" fill="#e9f2ff"/><text x="593" y="237" font-size="36">📄</text>
+    <text x="690" y="210" font-size="29" font-weight="700">Executive Banking Brief</text>
+    <text x="690" y="247" font-size="21">Relationship assessment • opportunities • risk watch items • stakeholders • external context</text>
+
+    <rect x="540" y="335" width="930" height="135" rx="24" fill="#ffffff" stroke="#d5e3f7" stroke-width="3"/>
+    <rect x="570" y="363" width="82" height="82" rx="18" fill="#e9f2ff"/><text x="592" y="417" font-size="36">📈</text>
+    <text x="690" y="390" font-size="29" font-weight="700">30-Day Deal Execution Plan</text>
+    <text x="690" y="427" font-size="21">Owners • dates • dependencies • risk level • status • decision gates • Gantt-style timeline</text>
+
+    <rect x="540" y="515" width="930" height="135" rx="24" fill="#ffffff" stroke="#d5e3f7" stroke-width="3"/>
+    <rect x="570" y="543" width="82" height="82" rx="18" fill="#e9f2ff"/><text x="592" y="597" font-size="36">📊</text>
+    <text x="690" y="570" font-size="29" font-weight="700">Banking Opportunity Review</text>
+    <text x="690" y="607" font-size="21">6-slide executive presentation: situation • opportunity • risk • actions • decisions • execution plan</text>
+
+    <rect x="540" y="695" width="930" height="135" rx="24" fill="#ffffff" stroke="#d5e3f7" stroke-width="3"/>
+    <rect x="570" y="723" width="82" height="82" rx="18" fill="#e9f2ff"/><text x="592" y="777" font-size="36">✉️</text>
+    <text x="690" y="750" font-size="29" font-weight="700">Manager-ready Email</text>
+    <text x="690" y="787" font-size="21">Executive summary with the Word, Excel and PowerPoint outputs attached</text>
+  </g>
+  <text x="100" y="860" font-family="Arial" font-size="26" font-weight="700" fill="#164f9f">Intent → Plan → Context → Tools → Reasoning → Execution → Business output</text>
+</svg>
