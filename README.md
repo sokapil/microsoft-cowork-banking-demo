@@ -21,7 +21,7 @@ Instead of manually moving between systems, the banker starts with one request i
 
 ## How the demo works
 
-![Cowork orchestration](images/01-cowork-orchestration.png)
+![Cowork orchestration](images/01-cowork-orchestration.svg)
 
 Cowork plans the work and can bring together:
 
@@ -33,7 +33,7 @@ Cowork plans the work and can bring together:
 
 ## Business outputs
 
-![Cowork outputs](images/02-cowork-outputs.png)
+![Cowork outputs](images/02-cowork-outputs.svg)
 
 The workflow produces four connected outputs:
 
@@ -74,8 +74,8 @@ microsoft-cowork-banking-demo/
 │   ├── credit-risk-review/SKILL.md
 │   └── banker-next-best-action/SKILL.md
 ├── images/
-│   ├── 01-cowork-orchestration.png
-│   └── 02-cowork-outputs.png
+│   ├── 01-cowork-orchestration.svg
+│   └── 02-cowork-outputs.svg
 └── sample-output/
     └── README.md
 ```
